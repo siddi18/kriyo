@@ -1,6 +1,6 @@
 # 🛒 Shopping Cart Application
 
-A modern, fully-functional shopping cart built with vanilla JavaScript, HTML, and CSS. No frameworks required!
+A modern, fully-functional shopping cart built with vanilla JavaScript, HTML, and CSS.
 
 ## ✨ Features
 
